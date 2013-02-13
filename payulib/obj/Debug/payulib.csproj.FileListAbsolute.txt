@@ -1,0 +1,5 @@
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\payulib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\payulib\bin\Debug\payulib.dll
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\payulib\bin\Debug\payulib.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\payulib\obj\Debug\payulib.dll
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\payulib\obj\Debug\payulib.pdb

@@ -1,0 +1,14 @@
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\bin\Debug\test.exe
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\bin\Debug\test.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\bin\Debug\payulib.dll
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\bin\Debug\payulib.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\obj\x86\Debug\test.exe
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\test\obj\x86\Debug\test.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\obj\x86\Debug\test.exe
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\obj\x86\Debug\test.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\bin\Debug\test.exe
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\bin\Debug\test.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\bin\Debug\payulib.dll
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\bin\Debug\payulib.pdb
+C:\Users\Vefa\Documents\Visual Studio 2010\Projects\payu\payulib\test\obj\x86\Debug\ResolveAssemblyReference.cache
