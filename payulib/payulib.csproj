@@ -42,6 +42,7 @@
     <Compile Include="Buyer.cs" />
     <Compile Include="Codes.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="JsonSerializer.cs" />
     <Compile Include="OpenPayU.cs" />
     <Compile Include="OpenPayUConstant.cs" />
     <Compile Include="PayuInternals.cs" />

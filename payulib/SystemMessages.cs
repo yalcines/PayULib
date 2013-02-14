@@ -30,8 +30,8 @@ namespace PayuLib
             messagesEN.Add(SystemMessages.signatureKey, "Merchant Signature Key should not be null or empty.");
             messagesEN.Add(SystemMessages.merchantPosId, "MerchantPosId should not be null or empty.");
             Hashtable messagesTR = new Hashtable();
-            messagesTR.Add(SystemMessages.openPayuEndPointUrl, "OpenPayuEndPointUrl boÅŸtur.");
-            messagesTR.Add(SystemMessages.signatureKey, "MÃ¼ÅŸteri Signature Key null ya da emty olamaz.");
+            messagesTR.Add(SystemMessages.openPayuEndPointUrl, "OpenPayuEndPointUrl boştur.");
+            messagesTR.Add(SystemMessages.signatureKey, "Müşteri Signature Key null ya da emty olamaz.");
             messagesTR.Add(SystemMessages.merchantPosId, "MerchantPosId null ya da empty olamaz.");
 
             if (version == SystemMessages.i18nEN) {

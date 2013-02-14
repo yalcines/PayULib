@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ocr.aspx.cs" Inherits="webtest.ocr" %>

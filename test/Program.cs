@@ -1,13 +1,13 @@
 ﻿/************************************************************
- Payu Asp.Net Entegrasyon iÃ§in SÄ±nÄ±f KÃ¼tÃ¼phanesi dosyasÄ±
- Yazan Vefa KayacÄ± <vefakayaci@gmail.com>
+ Payu Asp.Net Entegrasyon için Sınıf Kütüphanesi dosyası
+ Yazan Vefa Kayacı <vefakayaci@gmail.com>
  http://www.gurafe.com
- KullanÄ±mÄ±nda ve daÄŸÄ±tÄ±mÄ±nda herhangi bir kÄ±sÄ±t yoktur
+ Kullanımında ve dağıtımında herhangi bir kısıt yoktur
  ************************************************************/
 
 using System;
 using payu = PayuLib;
-
+using PayuLib;
 namespace PayuLib {
     class Program {
         static void Main(string[] args) {
@@ -25,7 +25,7 @@ namespace PayuLib {
                 .Set(payu.Constants.TotalAmount, "190");
 
             conf.SetBuyer(payu.Constants.FirstName, "Vefa")
-                .SetBuyer(payu.Constants.LastName, "KayacÄ±")
+                .SetBuyer(payu.Constants.LastName, "Kayacı")
                 .SetBuyer(payu.Constants.CountryCode, "tr")
                 .SetBuyer(payu.Constants.Email, "wefra@yahoo.com")
                 .SetBuyer(payu.Constants.PhoneNumber, "09995320000")
